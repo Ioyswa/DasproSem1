@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int data[2][2][2]; // array 3D dengan ukuran 2x2x2
+    int data[2][2][2]; // array 3D dengan ukuran 2x2x2 a
 
     // Isi array manual
     data[0][0][0] = 10;
